@@ -1,4 +1,4 @@
-#Strings
+# Strings
 
 a1 = 'cow.'
 a2 = "I`m a"
