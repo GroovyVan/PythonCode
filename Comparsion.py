@@ -21,7 +21,7 @@ a4 = a < b
 #else:
    # print('a меньше чем b')
 
-#if a < b:
+#if60 a < b:
 #    print('a меньше чем b')
 #else:
 #    print('a больше чем b')
